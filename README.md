@@ -7,9 +7,10 @@ Example: The capacity of the bus is 10,  8 people are waiting on the stop. The b
 - Each person is represented by one process (rider).
 - The bus is represented by the bus process. There is only one bus in the system.
 
-## Run
+## Installation
+- For compilation use `make`.
+
 ```
-make
 ./bus R C ART ABT
 ```  
 
